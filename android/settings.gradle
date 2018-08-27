@@ -1,0 +1,3 @@
+rootProject.name = 'ParkHereSg'
+
+include ':app'
